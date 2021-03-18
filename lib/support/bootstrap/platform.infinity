@@ -1,0 +1,14 @@
+mod main;
+
+/**                          
+* Created by rohit  on 6/12/2020
+* Description:                             
+*/
+class platform {
+    /**
+     * Jan 18, 2018 Build release of infinity 0.2.0, this contains all the base level
+     * support for infinity as well as major performance enhancments and improvements
+     * throughout the platform.
+     */
+    static const alpha := 2;
+}

@@ -1,0 +1,12 @@
+mod std;
+
+/**
+ *Created by Rohit Maurya 7/20/2020.
+ *
+ * Pritable serves as the base level interface for all methods in
+ * infinity. Printable is inherited by the Object class to allow
+ * for printing of any object.
+ */
+interface printable {
+    def to_string() : string;
+}

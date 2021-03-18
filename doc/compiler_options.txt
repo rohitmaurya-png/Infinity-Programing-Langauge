@@ -1,0 +1,5 @@
+compiler:
+tests/CompilerTest2.infinity lib/support/0.2.0/string.infinity lib/support/0.2.0/RuntimeErr.infinity lib/support/0.2.0/Throwable.infinity lib/support/0.2.0/Array.infinity lib/support/0.2.0/internal/Time.infinity lib/support/0.2.0/internal/ConsoleHandler.infinity lib/support/0.2.0/System.infinity lib/support/0.2.0/internal/BuildConfig.infinity lib/support/0.2.0/internal/Runtime.infinity lib/support/0.2.0/Exception.infinity -unsafe -o bin/CompilerTest2 -a -objdmp
+
+vm:
+bin/CompilerTest2 hh
